@@ -10,4 +10,6 @@ This project is an end-to-end system that detects the emotional state of a perso
 
 ## Tech Stack
 - **Python**
-- **TensorFlow**: Deep learning model for emotion detection.
+- **Numpy**
+- **TensorFlow**
+- **Keras**
